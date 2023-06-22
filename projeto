@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha jornada na programação</title>
+</head>
+
+<body>
+    <h1>Meus primeiros contato com os cursos da DIO!</h1>
+    <h2 id="indice">Índice</h2>
+    <ul>
+        <li><a href="#objetivo">Sobre mim e meu objetivo</a></li>
+        <li><a href="#plataforma">A plataforma</a></li>
+        <li><a href="#curso">Curso de HTML com o professor Diogo Mainardes</a>
+            <ul>
+                <li><a href="#primeiro-modulo">Primeiro módulo</a></li>
+                <li><a href="#html">HTML na prática</a></li>
+                <li><a href="#desafio">Desafio de projeto</a></li>
+            </ul>
+        </li>
+        <li><a href="#referencias">Referências</a></li>
+    </ul>
+
+    <h2 id="objetivo">Meu objetivo</h2>
+    <p>
+        Me chamo Fernando Lopes, tenho 28 anos, sou entusiasta da computação em geral. Desde criança, sempre tive muito
+        interesse em explorar tudo nos computadores, desmontá-los e montá-los, e sempre quis entender como aquela
+        máquina funcionava. No entanto, nunca fiz um curso formal e não me especializei em nenhuma área relacionada.
+        Agora, estou retomando meus estudos em programação.
+        <br>
+        Meu objetivo principal é adquirir um entendimento intermediário em HTML e CSS. Essas linguagens são a base para
+        a construção de páginas web, e acredito que dominá-las seja essencial para minha jornada na programação. Depois
+        de consolidar meus conhecimentos em HTML e CSS, pretendo avançar para os cursos de Angular, que é um framework
+        amplamente utilizado para desenvolvimento web.
+    </p>
+    <small><a href="#indice">(voltar)</a></small>
+    <h2 id="plataforma">
+        A Plataforma
+    </h2>
+    <p>A plataforma que escolhi para iniciar minha jornada na programação é a <a href="https://www.dio.me/"
+            target="_blank">DIO (Digital Innovation One)</a>. Ela oferece
+        diversos cursos on-line gratuitos, plano pro e global, abrangendo diversas áreas da tecnologia. Acredito que a
+        educação acessível e de qualidade é fundamental para o desenvolvimento pessoal e profissional.<br>
+        Antes de conhecer a DIO, eu estudei em outras plataformas e não me senti tão confortável. O Site da DIO é bem
+        estruturado, fácil de usar, dinâmico e prático. Sem falar de todos os cursos disponíveis e o sistema de XP e
+        níveis o que te trás ainda mais motivação.<br>
+        Além disso, a plataforma oferece recursos interativos, como exercícios práticos e fóruns de discussão, que me
+        permitem aprimorar meus conhecimentos. Estou empolgado com as oportunidades que a DIO oferece e animado para
+        explorar todos os cursos disponíveis.<br>
+    </p>
+    <small><a href="#indice">(voltar)</a></small>
+    <h2 id="curso">
+        Curso de HTML com o professor Diogo Mainardes
+    </h2>
+    <p>O Professor Diogo Mainardes iniciou sua apresentação de forma a proporcionar aos alunos um ambiente acolhedor e
+        motivador. Além disso, ele abordou detalhadamente o conteúdo do curso, destacando especialmente um módulo que
+        aborda tópicos essenciais para aqueles que estão começando a estudar HTML.</p>
+    <h3 id="primeiro-modulo">
+        Primeiro Módulo
+    </h3>
+    <p>No primeiro módulo do curso, aprendemos sobre a história dos computadores desde o início e estudamos pessoas
+        importantes nessa área. Também entendemos a diferença entre clientes e servidores, o que é muito importante
+        porque o HTML é processado pelos navegadores (clientes) e enviado pelos servidores. Isso nos ajuda a entender
+        como os elementos HTML funcionam nos navegadores e servidores. </p>
+    <h3 id="html">
+        HTML na prática
+    </h3>
+    <p>Nesse curso, o professor nos auxiliou no processo de instalação das ferramentas necessárias. No nosso caso,
+        utilizamos o <a href="https://code.visualstudio.com/" target="_blank">VSCODE</a>, uma excelente IDE para quem
+        está começando a estudar programação. A instalação do <a href="https://code.visualstudio.com/"
+            target="_blank">VSCODE</a>
+        foi simples e rápida.<br>
+
+        Durante o curso, adquirimos conhecimentos sobre as estruturas básicas do HTML, que incluem as tags
+        <i>!DOCTYPE HTML, html, head e body.</i>
+        <br>
+        Além disso, aprendemos as tags fundamentais para a criação de títulos, textos e listas. Também adquirimos
+        conhecimento sobre alguns atributos utilizados para a formatação de textos.
+        <br>
+        Outro aspecto abordado foi a criação de links utilizando a tag "a" juntamente com o atributo href="".
+    </p>
+    <small><a href="#indice">(voltar)</a></small>
+    <h2 id="desafio">
+        Desafio de projeto
+    </h2>
+    <p>O desafio do projeto foi incrível e extremamente importante. Na minha opinião, uma parte essencial de qualquer
+        curso de programação é a aplicação prática e a diversão ao brincar com os códigos que aprendemos. É fundamental
+        explorar todas as tags e atributos e deixar nossa criatividade fluir. Essa é a chave para evoluir em uma
+        linguagem específica.</p>
+    <small><a href="#indice">(voltar)</a></small>
+
+    <h2 id="referencias">Referências</h2>
+
+    <ul>
+        <li><a href="http://dio.me" target="_blank">http://dio.me</a></li>
+        <li><a href="http://w3c.org" target="_blank">http://w3c.org</a></li>
+    </ul>
+    <small><a href="#indice">(voltar)</a></small>
+</body>
+
+</html>
